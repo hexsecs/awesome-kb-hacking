@@ -16,3 +16,6 @@ with KB and upstream links for each entry. Preserve manual introduction and
 license notices. Split oversized catalogs at category boundaries into linked
 continuation pages below GitHub's display limit. Ingest maintains the view and
 validation checks coverage, links, size and synchronization.
+
+## [2026-11-04] deepen | Awesome-Hacking stubs → brief
+Promoted all 81 entity stubs to `depth: brief`. Evidence: each upstream README and default-branch commit date captured by a 2026-11-04 shallow clone (CyberChef and GTFOBins via their GitHub source repos). GitHub repo pages could not be read, so archive state is unverified: every page stays `status: unknown` with no `last_checked`, and each body records the last-commit date instead. Drafted by four Sonnet lanes, checked line-by-line against the captured READMEs by two Haiku reviewers; 121 `related` links reciprocated. tools/check.py preservation test made depth-agnostic so it still runs once pages are no longer stubs.
