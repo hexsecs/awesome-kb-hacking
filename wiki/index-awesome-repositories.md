@@ -1,0 +1,49 @@
+# Awesome Repositories
+
+- [Android Security](android-security.md) — Collection of Android security related resources
+- [AppSec](appsec.md) — Resources for learning about application security
+- [Asset Discovery](asset-discovery.md) — List of resources which help during asset discovery phase of a security assessment engagement
+- [Bug Bounty](bug-bounty.md) — List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+- [Cellular Hacking](cellular-hacking.md) — This is a list of hacking research in the 3G/4G/5G cellular security space.
+- [CI/CD Attacks](ci-cd-attacks.md) — Offensive research of CI/CD systems and deployment processes
+- [CTF](ctf.md) — List of CTF frameworks, libraries, resources and softwares
+- [Cyber Security University](cyber-security-university.md) — Free educational resources that focus on learning cybersecurity by doing
+- [Cyber Skills](cyber-skills.md) — Curated list of hacking environments where you can train your cyber skills legally and safely
+- [Cybersources](cybersources.md) — A collection of all types of tools and resources for cybersecurity
+- [Detection Engineering](detection-engineering.md) — Resources for designing, building, and operating detective cybersecurity controls
+- [DevSecOps](devsecops.md) — List of awesome DevSecOps tools with the help from community experiments and contributions
+- [Drone Hacking](drone-hacking.md) — List of Drone hacking tools and resources
+- [Embedded and IoT Security](embedded-and-iot-security.md) — A curated list of awesome resources about embedded and IoT security
+- [Fuzzing](fuzzing.md) — List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
+- [Hacking](hacking.md) — List of awesome Hacking tutorials, tools and resources
+- [Honeypots](honeypots.md) — List of honeypot resources
+- [Incident Response](incident-response.md) — List of tools for incident response
+- [Industrial Control System Security](industrial-control-system-security.md) — List of resources related to Industrial Control System (ICS) security
+- [InfoSec](infosec.md) — List of awesome infosec courses and training resources
+- [IoT and Hardware Security](iot-and-hardware-security.md) — Collection of tools, books, resources and software about IoT and hardware security
+- [Mainframe Hacking](mainframe-hacking.md) — List of Awesome Mainframe Hacking/Pentesting Resources
+- [Malware Analysis](malware-analysis.md) — List of awesome malware analysis tools and resources
+- [Malware Persistence](malware-persistence.md) — Techniques adversaries use to maintain system access across restarts
+- [Node.js Security](node-js-security.md) — Curated list of tools, security incidents and other resources around Node.js security
+- [OSINT](osint.md) — List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
+- [OSX and iOS Security](osx-and-ios-security.md) — OSX and iOS related security tools
+- [Password Cracking](password-cracking.md) — Tools and resources for recovering passwords
+- [Pcaptools](pcaptools.md) — Collection of tools developed by researchers in the Computer Science area to process network traces
+- [Pentest](pentest.md) — List of awesome penetration testing resources, tools and other shiny things
+- [PHP Security](php-security.md) — Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
+- [Prompt Injection](prompt-injection.md) — Prompt injection vulnerabilities targeting AI and LLM systems
+- [Real-time Communications hacking & pentesting resources](real-time-communications-hacking-pentesting-resources.md) — Covers VoIP, WebRTC and VoLTE security related topics
+- [Red Teaming Toolkit](red-teaming-toolkit.md) — Cutting-edge open-source security tools (OST) for red teamers and threat hunters
+- [Reinforcement Learning for Cyber Security](reinforcement-learning-for-cyber-security.md) — List of awesome reinforcement learning for security resources
+- [Reversing](reversing.md) — Collection of resources to learn Reverse Engineering from start
+- [Sec Talks](sec-talks.md) — List of awesome security talks
+- [SecLists](seclists.md) — Collection of multiple types of lists used during security assessments
+- [Security](security.md) — Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+- [Social Engineering](social-engineering.md) — List of awesome social engineering resources
+- [Static Analysis](static-analysis.md) — List of static analysis tools, linters and code quality checkers for various programming languages
+- [The Art of Hacking Series](the-art-of-hacking-series.md) — List of resources  includes thousands of cybersecurity-related references and resources
+- [Threat Intelligence](threat-intelligence.md) — List of Awesome Threat Intelligence resources
+- [Vehicle Security](vehicle-security.md) — List of resources for learning about vehicle security and car hacking
+- [Web Hacking](web-hacking.md) — List of web application security
+- [Web3 Security](web3-security.md) — A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
+- [YARA](yara.md) — List of awesome YARA rules, tools, and people
