@@ -74,7 +74,7 @@ def main():
         original_page = page.read_text()
         identity, _ = ingest.split_page(original_page)
         for depth in ("brief", "full", "deep"):
-            text = original_page.replace("depth: stub", "depth: " + depth)
+            text = re.sub(r"(?m)^depth: \w+$", "depth: " + depth, original_page)
             marker = "\nAuthored content must survive.\n"
             text = text[:text.index("\n---\n", 4)+5] + marker
             page.write_text(text)
