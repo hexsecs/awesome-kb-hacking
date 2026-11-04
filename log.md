@@ -9,3 +9,10 @@ source snapshot and CC0-1.0 license. All entries are stubs with unknown
 resource status; outbound resource verification and recursive ingestion
 are deferred.
 
+## [2026-11-04] update | Restore traditional README list browsing
+
+Generate a categorized resource list inline in README from the OpenShelf index,
+with KB and upstream links for each entry. Preserve manual introduction and
+license notices. Split oversized catalogs at category boundaries into linked
+continuation pages below GitHub's display limit. Ingest maintains the view and
+validation checks coverage, links, size and synchronization.
