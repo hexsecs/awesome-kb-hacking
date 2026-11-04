@@ -1,0 +1,36 @@
+# Other Useful Repositories
+
+- [AI Security](ai-security.md) — Curated list of AI security resources
+- [Annual Security Reports](annual-security-reports.md) — Cybersecurity trends, insights, and challenges from annual reports
+- [API Security Checklist](api-security-checklist.md) — Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [APT Notes](apt-notes.md) — Various public documents, whitepapers and articles about APT campaigns
+- [Bug Bounty Reference](bug-bounty-reference.md) — List of bug bounty write-up that is categorized by the bug nature
+- [Capsulecorp Pentest](capsulecorp-pentest.md) — Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
+- [Cryptography](cryptography.md) — Cryptography resources and tools
+- [CVE PoC](cve-poc.md) — List of CVE Proof of Concepts (PoCs) updated daily by Trickest
+- [CyberChef](cyberchef.md) — A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
+- [Detection Lab](detection-lab.md) — Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+- [Executable Packing](executable-packing.md) — Resources about executable packing and unpacking
+- [Forensics](forensics.md) — List of awesome forensic analysis tools and resources
+- [Free Programming Books](free-programming-books.md) — Free programming books for developers
+- [GTFOBins](gtfobins.md) — A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
+- [Hacker101](hacker101.md) — A free class for web security by HackerOne
+- [Infosec Getting Started](infosec-getting-started.md) — A collection of resources, documentation, links, etc to help people learn about Infosec
+- [Infosec Reference](infosec-reference.md) — Information Security Reference That Doesn't Suck
+- [IOC](ioc.md) — Collection of sources of indicators of compromise
+- [Linux Kernel Exploitation](linux-kernel-exploitation.md) — A bunch of links related to Linux kernel fuzzing and exploitation
+- [Machine Learning for Cyber Security](machine-learning-for-cyber-security.md) — Curated list of tools and resources related to the use of machine learning for cyber security
+- [Payloads](payloads.md) — Collection of web attack payloads
+- [PayloadsAllTheThings](payloadsallthethings.md) — List of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [Pentest Wiki](pentest-wiki.md) — A free online security knowledge library for pentesters / researchers
+- [Probable Wordlists](probable-wordlists.md) — Wordlists sorted by probability originally created for password generation and testing
+- [Red Team Physical Tools](red-team-physical-tools.md) — Curated list of tools for physical security, red teaming, and tactical covert entry
+- [Reverse Engineering](reverse-engineering.md) — List of Reverse Engineering articles, books, and papers
+- [RFSec-ToolKit](rfsec-toolkit.md) — Collection of Radio Frequency Communication Protocol Hacktools
+- [Security Cheatsheets](security-cheatsheets.md) — OWASP Cheat Sheet Series for application security
+- [Shell](shell.md) — List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
+- [Suricata](suricata.md) — Suricata IDS/IPS and network security monitoring resources
+- [ThreatHunter-Playbook](threathunter-playbook.md) — A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
+- [Tor](tor.md) — Resources about the Tor network and anonymous communication
+- [Vulhub](vulhub.md) — Pre-Built Vulnerable Environments Based on Docker-Compose
+- [Web Security](web-security.md) — Curated list of Web Security materials and resources

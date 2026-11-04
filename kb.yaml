@@ -1,0 +1,32 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-hacking",
+  "uid": "01a1a877-54f7-7137-9e8b-e38ab57ab87b",
+  "title": "Hacking (Awesome KB)",
+  "description": "Hacking and cybersecurity resources from Hack-with-Github/Awesome-Hacking, with one source-attributed stub per listed resource.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC0-1.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "hacking",
+    "security",
+    "awesome"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:Hack-with-Github/Awesome-Hacking",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "440486fd08b0a0d9ad9a041a0bb234dcdf65dee2"
+  }
+}
